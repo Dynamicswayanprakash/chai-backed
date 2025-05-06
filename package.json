@@ -1,12 +1,24 @@
 {
-  "name": "chai-backend",
-  "version": "1.0.0",
-  "description": "a backend at chai aur code cahnnel - youtube",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "dev": "nodemon src/index.js"
-  },
+    "name": "chai-backend",
+    "version": "1.0.0",
+    "description": "A backend for Chai aur Code channel - YouTube",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+      "dev": "nodemon src/index.js"
+    },
+    "keywords": [
+      "javascript",
+      "backend",
+      "chai"
+    ],
+    "author": "swayan prakash nayak",
+    "license": "ISC",
+    "devDependencies": {
+      "nodemon": "^3.1.10"
+    }
+  }
+  
   "keywords": [
     "javascript",
     "backend",
